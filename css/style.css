@@ -1016,6 +1016,14 @@ body {
     display: none;
   }
 }
+@media screen and (min-width: 1200px) {
+  body {
+    background-image: url("/images/background.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+}
 .post-list {
   padding: 0;
 }
