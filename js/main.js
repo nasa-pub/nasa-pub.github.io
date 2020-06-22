@@ -1,4 +1,4 @@
-if (!!$.prototype.justifiedGallery) { // if justifiedGallery method is defined
+    if (!!$.prototype.justifiedGallery) { // if justifiedGallery method is defined
     var options = {
         rowHeight: 140,
         margins: 4,
