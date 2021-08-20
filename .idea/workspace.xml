@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80535882-ef10-44df-a831-165e779bf8fa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/source/_posts/Starry-Night-Over-the/Starry_Night_Over_The_Rhone.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/source/_posts/Starry-Night-Over-the/羊山公园.jpg" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly" afterPath="$PROJECT_DIR$/themes/butterfly" />
+      <change beforePath="$PROJECT_DIR$/themes/cactus" afterPath="$PROJECT_DIR$/themes/cactus" />
+      <change beforePath="$PROJECT_DIR$/themes/solar" afterPath="$PROJECT_DIR$/themes/solar" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,15 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jvm-hotspot启动流程.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jvm-hotspot启动流程.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_drafts/jvm-hotspot启动流程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1937">
-                <caret line="192" column="2" lean-forward="true" selection-start-line="192" selection-start-column="2" selection-end-line="192" selection-end-column="2" />
+              <first_editor relative-caret-position="77">
+                <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,13 +86,6 @@
               </first_editor>
               <second_editor />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Principles-of-Neural-Science.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/NeuralScience/Principles-of-Neural-Science.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -221,6 +222,7 @@
         <option value="$PROJECT_DIR$/source/_posts/NeuralScience.md" />
         <option value="$PROJECT_DIR$/themes/butterfly/_config.yml" />
         <option value="$PROJECT_DIR$/source/_drafts/jvm-hotspot启动流程.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -262,41 +264,6 @@
             <path>
               <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
               <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_drafts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="NeuralScience" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nasa_pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nasa_pub" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="butterfly" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,12 +356,12 @@
       <workItem from="1625034907301" duration="1939000" />
       <workItem from="1626058569739" duration="1596000" />
       <workItem from="1628581019762" duration="1503000" />
-      <workItem from="1629342179495" duration="734000" />
+      <workItem from="1629342179495" duration="935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110953000" />
+    <option name="totallyTimeSpent" value="111154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,7 +382,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45336482" sideWeight="0.4978903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32740214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36829558" sideWeight="0.4978903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5363528" sideWeight="0.4978903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -464,11 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/solar/source/images/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/solar/source/images/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -839,11 +801,19 @@
     <entry file="file://$PROJECT_DIR$/source/_drafts/jvm-hotspot启动流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1937">
-            <caret line="192" column="2" lean-forward="true" selection-start-line="192" selection-start-column="2" selection-end-line="192" selection-end-column="2" />
+          <first_editor relative-caret-position="77">
+            <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
